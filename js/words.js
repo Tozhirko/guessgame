@@ -54,5 +54,9 @@ const wordList = [
   {
     word: "vision",
     hint: "expand your ------"
+  },
+  {
+    word: "github",
+    hint: "must-have for development"
   }
 ]
